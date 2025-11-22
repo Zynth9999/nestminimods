@@ -35,7 +35,7 @@ theme:
 nav:
   - Home: index.md
   - Information:
-      - Shell build: Shell build.md
+      - Shell build: docs/Shell build.md
   - Reference:
       - API: reference/api.md
 
