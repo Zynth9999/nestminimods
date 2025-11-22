@@ -34,9 +34,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Guides:
-      - Getting Started: guides/getting-started.md
-      - Installation: guides/installation.md
+  - Information:
+      - Shell build: Shell build.md
   - Reference:
       - API: reference/api.md
 
